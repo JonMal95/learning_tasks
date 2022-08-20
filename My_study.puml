@@ -1,0 +1,15 @@
+@startuml
+left to right direction
+rectangle "My study" {
+(Learn theory) as UC1
+(Do tasks) as UC2
+(Watch learning videos) as UC3
+(Do a lot of practice) as UC4
+(JUST DO IT !!!!!!  ) as UC5
+}
+:Ivan: --> UC1
+:Ivan: --> UC2
+:Ivan: --> UC3
+:Ivan: --> UC4
+:Ivan: --> UC5
+@enduml
